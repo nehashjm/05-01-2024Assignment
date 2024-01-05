@@ -1,0 +1,11 @@
+D:\mphasis Simplilearn\Phase3\Assignment\Day1\CalculatorAssignment\CalculatorAssignment\bin\Debug\net6.0\CalculatorAssignment.deps.json
+D:\mphasis Simplilearn\Phase3\Assignment\Day1\CalculatorAssignment\CalculatorAssignment\bin\Debug\net6.0\CalculatorAssignment.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day1\CalculatorAssignment\CalculatorAssignment\bin\Debug\net6.0\CalculatorAssignment.pdb
+D:\mphasis Simplilearn\Phase3\Assignment\Day1\CalculatorAssignment\CalculatorAssignment\obj\Debug\net6.0\CalculatorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis Simplilearn\Phase3\Assignment\Day1\CalculatorAssignment\CalculatorAssignment\obj\Debug\net6.0\CalculatorAssignment.AssemblyInfoInputs.cache
+D:\mphasis Simplilearn\Phase3\Assignment\Day1\CalculatorAssignment\CalculatorAssignment\obj\Debug\net6.0\CalculatorAssignment.AssemblyInfo.cs
+D:\mphasis Simplilearn\Phase3\Assignment\Day1\CalculatorAssignment\CalculatorAssignment\obj\Debug\net6.0\CalculatorAssignment.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Phase3\Assignment\Day1\CalculatorAssignment\CalculatorAssignment\obj\Debug\net6.0\CalculatorAssignment.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day1\CalculatorAssignment\CalculatorAssignment\obj\Debug\net6.0\refint\CalculatorAssignment.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day1\CalculatorAssignment\CalculatorAssignment\obj\Debug\net6.0\CalculatorAssignment.pdb
+D:\mphasis Simplilearn\Phase3\Assignment\Day1\CalculatorAssignment\CalculatorAssignment\obj\Debug\net6.0\ref\CalculatorAssignment.dll
